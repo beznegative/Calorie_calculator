@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<ArrayOfPosilek xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Posilek PosilekId="1" WKtorym="1" DzienId="1" ProduktId="1">
+    <Gramatura>160</Gramatura>
+  </Posilek>
+  <Posilek PosilekId="3" WKtorym="1" DzienId="21" ProduktId="12">
+    <Gramatura>100</Gramatura>
+  </Posilek>
+  <Posilek PosilekId="4" WKtorym="6" DzienId="21" ProduktId="12">
+    <Gramatura>1000</Gramatura>
+  </Posilek>
+  <Posilek PosilekId="5" WKtorym="1" DzienId="22" ProduktId="13">
+    <Gramatura>10</Gramatura>
+  </Posilek>
+  <Posilek PosilekId="6" WKtorym="3" DzienId="23" ProduktId="7">
+    <Gramatura>1000</Gramatura>
+  </Posilek>
+</ArrayOfPosilek>
